@@ -1,0 +1,24 @@
+/* Styling Rules */
+/* universal selector */
+/* * {
+  color: red;
+} */
+
+/* Element selector */
+/* p {
+  color: red;
+}
+button {
+  color: white;
+  background-color: blue;
+} */
+
+/* id selector */
+/* #puzzle {
+  color: green;
+} */
+
+/* class selector */
+.warning {
+  background-color: aqua;
+}
